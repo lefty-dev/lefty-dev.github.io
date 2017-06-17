@@ -11,7 +11,7 @@ linkedin_username: "#"
 instagram_username:
 pinterest_username:
 flickr_username:
-github_username:  "#"
+github_username:  "lefty-dev"
 feed_icon: rss
 email: "#"
 gems: [jekyll-paginate]
