@@ -1,13 +1,10 @@
 title: Strata by HTML5 UP
 description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
+  **Leftydev** is a small community of SJW-adjacent technology enthusiasts and gamers.
 copyright: Untitled
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
-disqus_shortname: stratajekylldemo
 facebook_username:
 twitter_username: "#"
 linkedin_username: "#"
@@ -20,5 +17,3 @@ email: "#"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
-
-theme: jekyll-theme-cayman
